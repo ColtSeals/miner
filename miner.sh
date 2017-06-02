@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "BadGuy Mining Script!"
-echo "By: https://github.com/BadGuy552"
+echo "Edited @ColtSeals"
+echo "By: https://github.com/ColtSeals"
 if [ ! "$1" ]
 then
 read -p "Your Wallet: " wallet
